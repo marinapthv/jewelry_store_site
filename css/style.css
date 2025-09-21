@@ -1,0 +1,181 @@
+body {
+	margin:0;
+	padding:0;
+	background:#24355b;
+}
+
+p,td { font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	margin-top: 0px;
+}
+
+a{
+	color: #ff942d;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #ff942d;
+	text-decoration: underline;
+}
+
+a.hidden {
+	text-decoration: none;
+	color: #000000;
+	cursor:default;
+}
+
+form {
+     margin:0;
+     padding:0;
+}
+
+ul {
+	margin-left:20px;
+	margin-top:0px;
+	padding:1px;
+	list-style-type: square;
+	line-height: 16px;
+	}
+
+h1 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	margin: 0px;
+	padding-left: 10px;
+}
+
+.bgy {
+	background-repeat: repeat-y;
+}
+
+.bottom_addr {
+	font-size: 11px;
+	color: #FFFFFF;
+	padding-right: 15px;
+	padding-left: 10px;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	text-align: right;
+	vertical-align: middle;
+	padding-top: 12px;
+}
+
+.bottom_addr_lnk {
+	text-decoration: none;
+}
+
+.bottom_addr_lnk:hover {
+	text-decoration: underline;
+}
+
+
+.bgx {
+	background-repeat: repeat-x;
+}
+
+
+.norepeat {
+	background-repeat: no-repeat;
+}
+
+
+.welcome {
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: none;
+	color: #ff942d;
+	padding-left: 10px;
+	padding-top: 7px;
+	padding-bottom: 1px;
+}
+
+.c_name {
+	font-size: 18px;
+	font-weight: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-align: left;
+	vertical-align: middle;
+	padding-top: 10px;
+	padding-left: 10px;
+	background-repeat: no-repeat;
+}
+
+
+.bottom_menu {
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 22px;
+	background-position: bottom;
+	background-repeat: repeat-x;
+	vertical-align: middle;
+}
+
+.bottom_lnk{
+	color: #ff942d;
+	text-decoration: none;
+}
+
+.bottom_lnk:hover {
+	color: #ff942d;
+	text-decoration: underline;
+}
+
+.menu {
+	color: #21345f;
+	background-image: url(../images/btn_bg.gif);
+	background-repeat: repeat-x;
+	font-weight: bold;
+	white-space: nowrap;
+	text-align: right;
+}
+.menu_lnk{
+	text-decoration: none;
+	color: #21345f;
+}
+
+.menu_lnk:hover {
+	color: #1565AE;
+	text-decoration: underline;
+}
+
+
+.sub {
+	color: #e2aa0f;
+	text-transform: none;
+	vertical-align: top;
+	padding-top: 4px;
+	padding-right: 5px;
+}
+
+.sub_lnk{
+	color: #e2aa0f;
+	text-decoration: none;
+}
+
+.sub_lnk:hover {
+	color: #e2aa0f;
+	text-decoration: underline;
+}
+
+
+.body_txt {
+	color: #FFFFFF;
+	text-align: justify;
+	padding: 10px;
+	vertical-align: top;
+}
+
+.login-form {
+	background-image: url(../images/login-form-bg.gif);
+	background-repeat: repeat-x;
+	height: 20px;
+	width: 110px;
+	border-width: 1px;
+	border-style: solid;
+	font-size: 11px;
+	padding-top: 3px;
+	padding-left: 1px;
+}
